@@ -1,3 +1,5 @@
+# A simple script to install the latest version of docker and docker-compose in Ubuntu using the official get docker platform and the python library.
+
 # Caching sudo access for install completion
 sudo true
 
