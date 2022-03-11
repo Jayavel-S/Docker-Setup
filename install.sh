@@ -1,4 +1,3 @@
-# Ask for the user password
 # Caching sudo access for install completion
 sudo true
 
