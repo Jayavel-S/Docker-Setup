@@ -7,6 +7,8 @@ This script helps you with installing the latest version of Docker and Docker Co
 > 2. Your instance should have the updated version of 'git' installed. You can check if you have git installed or not by running the command `git version` and have a look at the output.
 > 
 >       ![git version](https://user-images.githubusercontent.com/101336634/158008355-768918e3-7ced-462f-9a9f-e52e539c875b.png)
+>    
+>    If you do not have git installed, you can use the command `sudo apt install git` to install the latest version of git in your system.
 
 ## Initiating the Script
 
