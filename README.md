@@ -16,7 +16,7 @@ This repo consists of some scripts which will help in intalling docker on ubuntu
 
 Open Putty or any ssh tool that you use to connect to your instance. Clone this repository to any directory.
 
-`git clone https://github.com/Jayavel-S/Homelab` and cd into the parent directory `cd Homelab`
+`git clone https://github.com/Jayavel-S/Docker-Setup` and cd into the parent directory `cd Docker-Setup`
 
 The script to install the latest version of docker and docker-compose is named as **install.sh**. Run the script with elevated privileages.
 
