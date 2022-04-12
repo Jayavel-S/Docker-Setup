@@ -3,6 +3,9 @@
 # Caching sudo access for install completion
 sudo true
 
+# Update the system with the latest packages
+sudo apt-get update && sudo apt-get upgrade -y
+
 # Official docker install script
 wget -qO- https://get.docker.com/ | sh
 
